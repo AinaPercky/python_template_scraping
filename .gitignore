@@ -1,0 +1,4 @@
+.history
+.venv
+__pycache__/
+basket_matches.csv
